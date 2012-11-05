@@ -1,0 +1,12 @@
+Package: SNAGEEdata
+Version: 0.99.0
+Date: 2012-01-26
+Title: SNAGEE data
+Author: David Venet <davenet@ulb.ac.be>
+Maintainer: David Venet <davenet@ulb.ac.be>
+Depends: R (>= 2.6.0)
+Suggests: ALL, hgu95av2.db, SNAGEE
+Description: SNAGEE data - gene list and correlation matrix
+License: Artistic-2.0
+biocViews: Microarray, OneChannel, TwoChannel, QualityControl
+URL: http://fleming.ulb.ac.be/SNAGEE
